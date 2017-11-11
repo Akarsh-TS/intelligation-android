@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Intelligation</string>
+
+    <string name="intelligation">Intelligation</string>
+    <string name="action_settings">Settings</string>
+    <string name="aadhaar_id">Aadhaar ID</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="submit">Submit</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="server_ip">http://intelligation.azurewebsites.net</string>
+    <!--<string name="server_ip" translatable="false">http://192.168.1.37:8080</string>-->
+    <string name="manual">Manual</string>
+    <string name="auto">Auto</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="options_array">
+        <item>Home</item>
+        <item>Settings</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="summary_title">Summary</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="cannot_add_sensors_toast">Cannot add any more sensors</string>
+    <string name="pin_number">"Pin Number: "</string>
+    <string name="sensor_deleted_toast">Sensor deleted</string>
+    <string name="new_sensor_added_toast">New sensor added</string>
+    <string name="settings_changed_toast">Settings changed</string>
+    <string name="wrong_aadhaar_or_pass_toast">Wrong Aadhaar ID or password</string>
+    <string name="network_error_at_login_toast">Network Error! Try again after some time</string>
+    <string name="time_out_login_toast">Oops. Timeout error!</string>
+    <string name="requesting_location_toast">Requesting Location</string>
+    <string name="signup_form_incomplete_toast">Form Incomplete</string>
+    <string name="sign_up_user_exists_toast">User already exists</string>
+    <string name="signup_successfull_toast">Signed up successfully</string>
+    <string name="refreshed_toast">Refreshed</string>
+    <string name="motor_toggle_checked_toast">Motor toggle checked!</string>
+    <string name="auto_toggle_checked_toast">Auto toggle checked!</string>
+    <string name="weather_title">Weather</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="motor_summary">Motor</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="get_location">Get Location</string>
+    <string name="select_location">Select location</string>
+    <string name="device_id">Device ID</string>
+    <string name="sign_up_no_location">Please select a location</string>
+</resources>
+

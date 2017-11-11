@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intelligation</string>
+
+    <string name="intelligation">Intelligation</string>
+    <string name="action_settings">कार्य</string>
+    <string name="aadhaar_id">आधार आईडी</string>
+    <string name="password">सांकेतिक शब्द</string>
+    <string name="name">नाम</string>
+    <string name="mobile_number">मोबाइल नंबर</string>
+    <string name="submit">ठीक हैाँ</string>
+    <string name="sign_up">शामिल हो</string>
+    <string name="login">प्रवेश</string>
+    <string name="manual">दस्ती</string>
+    <string name="auto">स्वचालित</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="options_array">
+        <item>फ़सल</item>
+        <item>परिवर्तन</item>
+        <item>प्रस्थान</item>
+    </string-array>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="title_activity_maps">नक्शा</string>
+    <string name="summary_title">सारांश</string>
+    <string name="statistics_title">आंकड़े</string>
+    <string name="cannot_add_sensors_toast">अधिक सेंसर नहीं जोड़ सकते हैं</string>
+    <string name="pin_number">"पिन: "</string>
+    <string name="sensor_deleted_toast">सेंसर हटा दिया है</string>
+    <string name="new_sensor_added_toast">नया सेंसर जोड ह़ा</string>
+    <string name="settings_changed_toast">परिवर्तन किया है</string>
+    <string name="wrong_aadhaar_or_pass_toast">गलत आधार आईडी या पासवर्ड</string>
+    <string name="network_error_at_login_toast">नेटवर्क ग़लती! कुछ समय के बाद कोशिश करे</string>
+    <string name="time_out_login_toast">त्रुटि!</string>
+    <string name="requesting_location_toast">स्थान अनुरोध</string>
+    <string name="signup_form_incomplete_toast">अधूरा फार्म</string>
+    <string name="sign_up_user_exists_toast">उपयोगकर्ता पहले से मौजूद है</string>
+    <string name="signup_successfull_toast">शामिल पूरा</string>
+    <string name="refreshed_toast">ताजा</string>
+    <string name="motor_toggle_checked_toast">मोटर मोड शुरू कर दिया!</string>
+    <string name="auto_toggle_checked_toast">स्वचालित मोड शुरू कर दिया!</string>
+    <string name="weather_title">मौसम</string>
+    <string name="refresh_button">ताजा</string>
+    <string name="motor_summary">मोटर</string>
+
+</resources>

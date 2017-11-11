@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/FieldBackground"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <in.gotech.intelligation.SlidingTabLayout
+        android:id="@+id/tabs"
+        style="@style/GreenBackground"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="8dp" />
+
+    <in.gotech.intelligation.CustomViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></in.gotech.intelligation.CustomViewPager>
+</LinearLayout>
+

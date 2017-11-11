@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_margin="18dp">
+
+        <TextView
+            android:id="@+id/sensor_value_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_margin="18dp"
+            android:text="38%"
+            android:textSize="64sp" />
+
+        <Button
+            android:id="@+id/refresh_button"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="@string/refresh_button" />
+
+        <TextView
+            android:id="@+id/crop_name_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:text="Rice"
+            android:textSize="32sp" />
+
+        <ToggleButton
+            android:id="@+id/auto_toggle_button"
+            android:layout_width="100dp"
+            android:layout_height="72dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:textOff="@string/manual"
+            android:textOn="@string/auto" />
+
+        <Switch
+            android:id="@+id/motor_switch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/auto_toggle_button"
+            android:layout_toRightOf="@id/auto_toggle_button"
+            android:gravity="center"
+            android:paddingLeft="18dp"
+            android:paddingRight="18dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/motor_switch"
+            android:layout_alignTop="@id/auto_toggle_button"
+            android:layout_toRightOf="@id/auto_toggle_button"
+            android:gravity="center"
+            android:paddingTop="8dp"
+            android:text="@string/motor_summary"
+            android:textSize="18dp" />
+
+
+    </RelativeLayout>
+</merge>

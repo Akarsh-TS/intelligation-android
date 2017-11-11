@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intelligation</string>
+    <string name="intelligation">Intelligation</string>
+    <string name="action_settings">మార్పులు</string>
+    <string name="aadhaar_id">ఆధార్ కార్డ్ నంబర్</string>
+    <string name="password">పాస్వర్డ్</string>
+    <string name="name">పేరు</string>
+    <string name="mobile_number">మొబైల్ నంబర్</string>
+    <string name="submit">సరే</string>
+    <string name="sign_up">చేరడం</string>
+    <string name="login">ప్రవేశించు</string>
+    <string name="manual">చేతి పని </string>
+    <string name="auto">స్వయంచాలకం </string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string-array name="options_array">
+        <item>పంటలు</item>
+        <item>అమర్పు </item>
+        <item>వదలివెళ్ళు</item>
+    </string-array>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+    <string name="title_activity_maps">నక్షం</string>
+    <string name="summary_title">నివేదిక</string>
+    <string name="statistics_title">సంఖ్యా శాస్త్రం </string>
+    <string name="cannot_add_sensors_toast">సెన్సార్లు జోడించండి కాదు</string>
+    <string name="pin_number">"పిన్ సంఖ్య: "</string>
+    <string name="sensor_deleted_toast">సెన్సార్ తొలగించబడుతుంది</string>
+    <string name="new_sensor_added_toast">సెన్సార్ కలపబడి ఉంది</string>
+    <string name="settings_changed_toast">అమర్పు మార్చబడింది</string>
+    <string name="wrong_aadhaar_or_pass_toast">తప్పు ఆధార్ కార్డు లేద పాస్వర్డ్ా</string>
+    <string name="network_error_at_login_toast">నెట్వర్క్ పొరపాటు!కొంత సమయం తర్వాత మళ్ళీ ప్రయత్నించండి</string>
+    <string name="time_out_login_toast">పొరపాటు!</string>
+    <string name="requesting_location_toast">స్థానం అవసరం</string>
+    <string name="signup_form_incomplete_toast">ఫారమ్ అసంపూర్తి</string>
+    <string name="sign_up_user_exists_toast">వినియోగదారు ముందే ఉన్నారు</string>
+    <string name="signup_successfull_toast">చేరడం విజయవంతం</string>
+    <string name="refreshed_toast">పునఃతజికరించబడింది</string>
+    <string name="motor_toggle_checked_toast">చేతి పన ఆరంభించబడిందిి</string>
+    <string name="auto_toggle_checked_toast">స్వయంచాలక ఆరంభించబడింది</string>
+    <string name="weather_title">వాతావరణం</string>
+    <string name="refresh_button">పునఃతాజీకరించు</string>
+    <string name="motor_summary">మోటార్</string>
+
+</resources>
